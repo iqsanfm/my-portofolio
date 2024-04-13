@@ -1,0 +1,10 @@
+{
+  "name": "html-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "iqsanfm",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "5.3.3"
+  }
+}
